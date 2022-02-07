@@ -9,7 +9,7 @@
 
 ```ruby
 iscreen = {
-  pronouns: 'he' || 'his',
+  pronouns: 'he' || 'him',
   code: ['Ruby', 'Golang', 'Java', 'Python', 'C#'],
   tools: ['Docker', 'Ansible', 'Bash'],
   cloud_service: ['GCP', 'AWS'],
